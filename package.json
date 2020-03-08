@@ -1,0 +1,13 @@
+{
+  "name": "scrape-example",
+  "license": "MIT",
+  "scripts": {
+    "p": "node process.js",
+    "s": "node scrape.js",
+    "dev": "nodemon --ignore dump.json process.js"
+  },
+  "dependencies": {
+    "node-spider": "^1.4.1",
+    "nodemon": "^2.0.15"
+  }
+}
