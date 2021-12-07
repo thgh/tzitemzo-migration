@@ -32,17 +32,39 @@ var spider = new Spider({
   encoding: 'utf8',
 })
 
-const done = new Set()
+const html = new Set()
+const images = new Set()
 
 const fs = require('fs')
 const { dirname } = require('path')
+const request = require('request')
 async function handleRequest(doc) {
   // Store the crawled data
   const filepath = getFilepath(doc.url)
   await fs.promises.mkdir(dirname(filepath), { recursive: true })
   await fs.promises.writeFile(filepath, doc.res.body)
-  done.add(filepath)
-  console.log(done.size + '\t', filepath, doc.res.body.length)
+  html.add(filepath)
+  console.log(html.size + '\t', filepath, doc.res.body.length)
+
+  // Download all images
+  doc.$('img').each(async function (i, elem) {
+    const src = doc.$(elem).attr('src')
+    if (!src) return
+    let url = doc.resolve(src)
+
+    // Only download once
+    const filepath = getImagePath(url)
+    const ok = await exists(filepath)
+    if (ok) return
+    images.add(filepath)
+    console.log('Images:', images.size, filepath)
+
+    // Fix [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    url = new URL(url).toString()
+
+    await fs.promises.mkdir(dirname(filepath), { recursive: true })
+    request(url).pipe(fs.createWriteStream(filepath))
+  })
 
   // Visit all links
   doc.$('a').each(async function (i, elem) {
@@ -54,7 +76,7 @@ async function handleRequest(doc) {
     if (!url.startsWith(prefix)) return
 
     // Only download once
-    const ok = await exists(url)
+    const ok = await exists(getFilepath(url))
     if (ok) return
 
     // Don't crawl pdfs
@@ -79,20 +101,24 @@ function getFilepath(url) {
   return './data' + (url.slice(prefix.length) || '/index') + ext
 }
 
+function getImagePath(url) {
+  return './data' + url.replace(prefix, '').replace('://', '/')
+}
+
 async function exists(url) {
-  const filename = getFilepath(url)
-  if (done.has(filename)) {
+  const filename = url
+  if (html.has(filename) || images.has(filename)) {
     return true
   }
 
-  const yes =
+  const doesExist =
     (await fs.promises
       .access(filename, fs.constants.F_OK)
       .catch(() => false)) !== false
 
-  if (yes) done.add(filename)
+  if (doesExist) html.add(filename)
 
-  return yes
+  return doesExist
 }
 
 // start crawling
