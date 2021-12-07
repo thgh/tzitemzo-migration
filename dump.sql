@@ -1,5 +1,5 @@
 
-DELETE FROM tzo_posts WHERE post_type LIKE 'taak' AND ID >= 1000;
+DELETE FROM tzo_posts WHERE ID >= 1000;
 INSERT INTO tzo_posts (
   ID,
   post_date,
@@ -5343,7 +5343,7 @@ Op deze terugvordering (door de verzekering van de schadeveroorzakende persoon) 
   1339,
   '2021-12-15 03:00:00.000',
   '2021-12-15 03:00:00.000',
-  '<p><b>Krijg je hulp van een JAC, een CLB, een neutralebezoekruimte, enz.? Dan heb je als minderjarige het rechtop informatie, een dossier, een eigen mening, ...</b></p><p>Deze brochure legt welke rechten je allemaal hebt. Voorkinderen jonger dan 12 jaar.</p><p><strong>Uitgave</strong>: 2019</p><p><strong>Prijs</strong>: gratis</p><p><a href="/library/documents/2285_2187-mijn-rechten-jeugdhulp.pdf" onclick="ga(&apos;send&apos;, &apos;event&apos;, &apos;PDF&apos;, &apos;Download&apos;, &apos;Mijn rechten in de jeugdhulp (2019) - PDF Download&apos;);">Mijn rechten in de jeugdhulp (2019)</a></p>',
+  '<p><b>Krijg je hulp van een JAC, een CLB, een neutrale bezoekruimte, enz.? Dan heb je als minderjarige het recht op informatie, een dossier, een eigen mening, ...</b></p><p>Deze brochure legt welke rechten je allemaal hebt. Voor kinderen jonger dan 12 jaar.</p><p><strong>Uitgave</strong>: 2019</p><p><strong>Prijs</strong>: gratis</p><p><a href="/library/documents/2285_2187-mijn-rechten-jeugdhulp.pdf" onclick="ga(&apos;send&apos;, &apos;event&apos;, &apos;PDF&apos;, &apos;Download&apos;, &apos;Mijn rechten in de jeugdhulp (2019) - PDF Download&apos;);">Mijn rechten in de jeugdhulp (2019)</a></p>',
   '',
   'Brochure Mijn rechten in de jeugdhulp',
   '', -- excerpt todo

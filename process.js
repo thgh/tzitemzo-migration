@@ -88,7 +88,7 @@ const wp_ = 'tzo_'
   const sql = []
 
   sql.push(`
-DELETE FROM ${wp_}posts WHERE post_type LIKE 'taak' AND ID >= 1000;
+DELETE FROM ${wp_}posts WHERE ID >= 1000;
 INSERT INTO ${wp_}posts (
   ID,
   post_date,

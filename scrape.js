@@ -102,7 +102,10 @@ function getFilepath(url) {
 }
 
 function getImagePath(url) {
-  return './data' + url.replace(prefix, '').replace('://', '/')
+  return (
+    './data' +
+    url.replace(prefix, '').replace('http://', '/').replace('https://', '/')
+  )
 }
 
 async function exists(url) {
