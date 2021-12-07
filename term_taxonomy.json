@@ -1,0 +1,130 @@
+[
+  {
+    "term_taxonomy_id": "1",
+    "term_id": "1",
+    "taxonomy": "category",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "2",
+    "term_id": "2",
+    "taxonomy": "nav_menu",
+    "description": "",
+    "parent": "0",
+    "count": "5"
+  },
+  {
+    "term_taxonomy_id": "4",
+    "term_id": "4",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "6"
+  },
+  {
+    "term_taxonomy_id": "5",
+    "term_id": "5",
+    "taxonomy": "category",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "6",
+    "term_id": "6",
+    "taxonomy": "category",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "9",
+    "term_id": "9",
+    "taxonomy": "leeftijdsgroepen",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "10",
+    "term_id": "10",
+    "taxonomy": "leeftijdsgroepen",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "11",
+    "term_id": "11",
+    "taxonomy": "leeftijdsgroepen",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "12",
+    "term_id": "12",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "13",
+    "term_id": "13",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "1"
+  },
+  {
+    "term_taxonomy_id": "14",
+    "term_id": "14",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "15",
+    "term_id": "15",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "16",
+    "term_id": "16",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "17",
+    "term_id": "17",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  },
+  {
+    "term_taxonomy_id": "18",
+    "term_id": "18",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "2"
+  },
+  {
+    "term_taxonomy_id": "19",
+    "term_id": "19",
+    "taxonomy": "themas",
+    "description": "",
+    "parent": "0",
+    "count": "0"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "term_id": "1",
+    "name": "Uncategorized",
+    "slug": "uncategorized",
+    "term_group": "0"
+  },
+  {
+    "term_id": "2",
+    "name": "Hoofdmenu",
+    "slug": "hoofdmenu",
+    "term_group": "0"
+  },
+  {
+    "term_id": "4",
+    "name": "Scheiding",
+    "slug": "scheiding",
+    "term_group": "0"
+  },
+  { "term_id": "5", "name": "Actueel", "slug": "actueel", "term_group": "0" },
+  {
+    "term_id": "6",
+    "name": "Nieuwsbrieven",
+    "slug": "nieuwsbrieven",
+    "term_group": "0"
+  },
+  { "term_id": "9", "name": "Kind", "slug": "kind", "term_group": "0" },
+  { "term_id": "10", "name": "Jongere", "slug": "jongere", "term_group": "0" },
+  {
+    "term_id": "11",
+    "name": "Volwassene",
+    "slug": "volwassene",
+    "term_group": "0"
+  },
+  { "term_id": "12", "name": "test", "slug": "test", "term_group": "0" },
+  { "term_id": "13", "name": "Familie", "slug": "familie", "term_group": "0" },
+  {
+    "term_id": "14",
+    "name": "Vrije tijd",
+    "slug": "vrije-tijd",
+    "term_group": "0"
+  },
+  { "term_id": "15", "name": "Gerecht", "slug": "gerecht", "term_group": "0" },
+  {
+    "term_id": "16",
+    "name": "Vreemdeling",
+    "slug": "vreemdeling",
+    "term_group": "0"
+  },
+  {
+    "term_id": "17",
+    "name": "Vluchteling",
+    "slug": "vluchteling",
+    "term_group": "0"
+  },
+  {
+    "term_id": "18",
+    "name": "Onderwijs",
+    "slug": "onderwijs",
+    "term_group": "0"
+  },
+  {
+    "term_id": "19",
+    "name": "ScheidingTest",
+    "slug": "scheidingtest",
+    "term_group": "0"
+  }
+]

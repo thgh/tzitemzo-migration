@@ -3,12 +3,26 @@ const { readFile, writeFile } = require('fs/promises')
 const path = require('path')
 const cheerio = require('cheerio')
 
+const terms = require('./terms.json')
+const term_taxonomy = require('./term_taxonomy.json')
+const themas = term_taxonomy
+  .filter((tt) => tt.taxonomy === 'themas')
+  .map((tt) => ({
+    tti: tt.term_taxonomy_id,
+    slug: terms.find((term) => term.term_id === tt.term_id).slug,
+  }))
+const leeftijdsgroepen = term_taxonomy
+  .filter((tt) => tt.taxonomy === 'leeftijdsgroepen')
+  .map((tt) => ({
+    tti: tt.term_taxonomy_id,
+    slug: terms.find((term) => term.term_id === tt.term_id).slug,
+  }))
+const term_relationships = []
 const wp_ = 'tzo_'
 
 ;(async function main() {
   // These variables will be filled with scraped data
   let posts = []
-  let taxonomies = []
 
   const scraped = getFilePaths('./data')
 
@@ -27,7 +41,7 @@ const wp_ = 'tzo_'
       .map(postType('faq'))
   )
 
-  // vorming
+  // Vorming
   addToPosts(
     scraped
       .filter((s) => /\/vorming.?\//.test(s))
@@ -61,7 +75,7 @@ const wp_ = 'tzo_'
     JSON.stringify(
       {
         posts,
-        // term_relationships,
+        term_relationships,
         // term_taxonomy,
         // terms,
       },
@@ -111,19 +125,20 @@ VALUES ${posts
     )
     .join(', ')}`)
 
-  //   // Taxonomies
+  // Taxonomies
   //   sql.push(`
-  // DELETE FROM ${wp_}term_relationships WHERE object_id >= 100;
-  // DELETE FROM ${wp_}term_taxonomy WHERE term_taxonomy_id >= 100;
-  // DELETE FROM ${wp_}terms WHERE term_id >= 100;
 
+  // DELETE FROM ${wp_}terms WHERE term_id >= 100;
   // INSERT INTO ${wp_}terms (term_id, name, slug)
   // VALUES ${terms
   //     .map(
   //       (term) => `(${term.term_id}, ${escape(term.name)}, ${escape(term.slug)})`
   //     )
   //     .join(',\n')};
+  // `)
 
+  //   sql.push(`
+  // DELETE FROM ${wp_}term_taxonomy WHERE term_taxonomy_id >= 100;
   // INSERT INTO ${wp_}term_taxonomy (term_taxonomy_id, term_id, taxonomy, description, count)
   // VALUES ${term_taxonomy
   //     .map(
@@ -133,15 +148,18 @@ VALUES ${posts
   //         )}, '', 1)`
   //     )
   //     .join(',\n')};
-
-  // INSERT INTO ${wp_}term_relationships (object_id, term_taxonomy_id, term_order)
-  // VALUES ${term_relationships
-  //     .map(
-  //       (term) =>
-  //         `(${term.object_id}, ${term.term_taxonomy_id}, ${term.term_order})`
-  //     )
-  //     .join(',\n')};
   // `)
+
+  sql.push(`
+  DELETE FROM ${wp_}term_relationships WHERE term_taxonomy_id >= 100;
+  INSERT INTO ${wp_}term_relationships (object_id, term_taxonomy_id, term_order)
+  VALUES ${term_relationships
+    .map(
+      (term) =>
+        `(${term.object_id}, ${term.term_taxonomy_id}, ${term.term_order || 0})`
+    )
+    .join(',\n')};
+  `)
   await writeFile('./dump.sql', sql.join(';\n\n'))
   console.log('dumped sql', sql.length)
 
@@ -178,30 +196,19 @@ function toPost(filename) {
     Date.parse('2021-12-01') + (ID - 1000) * 1000 * 60 * 60
   ).toJSON()
 
-  // const aside = content.slice(
-  //   content.indexOf('<div id="content-area">'),
-  //   content.indexOf(`<!-- begin 'drupal footer' -->`)
-  // )
-  // $ = cheerio.load(aside)
-  // let taxonomy = ''
-  // let term_order = -1
-  // $('.section h4, .section a').each((i, sel) => {
-  //   const elem = $(sel)
-  //   if (sel.tagName === 'h4') {
-  //     term_order = 0
-  //     taxonomy = elem.text().replace(':', '').toLowerCase()
-  //   } else if (sel.tagName === 'a' && taxonomy) {
-  //     const term_name = elem.text()
-  //     const term_id = terms.find((t) => t.name === term_name).term_id
-  //     term_relationships.push({
-  //       object_id: ID,
-  //       term_taxonomy_id: term_taxonomy.find(
-  //         (t) => t.term_id === term_id && t.taxonomy === taxonomy
-  //       ).term_taxonomy_id,
-  //       term_order: term_order++,
-  //     })
-  //   }
-  // })
+  // Look for taxonomies in URL
+  const thema = themas.find((term) => filename.includes(term.slug))
+  if (thema) {
+    term_relationships.push({ object_id: ID, term_taxonomy_id: thema.tti })
+  } else {
+    // console.log('no thema?', filename)
+  }
+  const groep = leeftijdsgroepen.find((term) => filename.includes(term.slug))
+  if (groep) {
+    term_relationships.push({ object_id: ID, term_taxonomy_id: groep.tti })
+  } else {
+    // console.log('no groep?', filename)
+  }
 
   return {
     ID,
