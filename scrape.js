@@ -1,6 +1,6 @@
 var Spider = require('node-spider')
 
-const startURL = 'https://www.tzitemzo.be/jongeren/thema2/privacy-jongeren'
+const startURL = 'https://www.tzitemzo.be/'
 const prefix = 'https://www.tzitemzo.be'
 
 var spider = new Spider({
@@ -37,30 +37,31 @@ const done = new Set()
 const fs = require('fs')
 const { dirname } = require('path')
 async function handleRequest(doc) {
-  // new page crawled
-  // console.log(doc.res); // response object
-  const p = file(doc.url)
-  // const d = dirname(p)
-  console.log(p, doc.res.body.length)
-  done.add(p)
-  await fs.promises.mkdir(dirname(p), { recursive: true })
-  await fs.promises.writeFile(p, doc.res.body)
+  // Store the crawled data
+  const filepath = getFilepath(doc.url)
+  await fs.promises.mkdir(dirname(filepath), { recursive: true })
+  await fs.promises.writeFile(filepath, doc.res.body)
+  done.add(filepath)
+  console.log(done.size + '\t', filepath, doc.res.body.length)
 
   // Visit all links
   doc.$('a').each(async function (i, elem) {
     const href = doc.$(elem).attr('href')?.split('#')[0]
-    const url = doc.resolve(href)
+    if (!href) return
+    let url = doc.resolve(href)
 
     // Stay within prefix
-    if (!url.startsWith(prefix)) {
-      return console.log('pre', href)
-    }
+    if (!url.startsWith(prefix)) return
 
     // Only download once
     const ok = await exists(url)
-    if (ok) {
-      return // console.log('alreay', url)
-    }
+    if (ok) return
+
+    // Don't crawl pdfs
+    if (url.endsWith('.pdf')) return
+
+    // Fix [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
+    url = new URL(url).toString()
 
     // Go for it
     spider.queue(url, handleRequest)
@@ -69,18 +70,17 @@ async function handleRequest(doc) {
 
 function norma(url) {
   url = url.endsWith('/') ? url.slice(0, -1) : url
-  url = url.endsWith('.html') ? url.slice(0, -5) : url
-  url = url.endsWith('.htm') ? url.slice(0, -4) : url
   return url
 }
 
-function file(url) {
+function getFilepath(url) {
+  const ext = url.split('/').pop().includes('.') ? '' : '.html'
   url = norma(url)
-  return './data' + (url.slice(prefix.length) || '/index') + '.html'
+  return './data' + (url.slice(prefix.length) || '/index') + ext
 }
 
 async function exists(url) {
-  const filename = file(url)
+  const filename = getFilepath(url)
   if (done.has(filename)) {
     return true
   }
