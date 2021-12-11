@@ -32,19 +32,23 @@ var spider = new Spider({
   encoding: 'utf8',
 })
 
-const html = new Set()
+const handled = new Set()
+const recache = new Set()
 const images = new Set()
 
 const fs = require('fs')
 const { dirname } = require('path')
 const request = require('request')
+const Document = require('node-spider/lib/document')
 async function handleRequest(doc) {
   // Store the crawled data
   const filepath = getFilepath(doc.url)
+  if (handled.has(filepath)) return
+  handled.add(filepath)
+  // console.log(handled.size + '> Handle\t', filepath, doc.res.body.length)
   await fs.promises.mkdir(dirname(filepath), { recursive: true })
+  if (!doc.res.body) return console.log('! Empty body')
   await fs.promises.writeFile(filepath, doc.res.body)
-  html.add(filepath)
-  console.log(html.size + '\t', filepath, doc.res.body.length)
 
   // Download all images
   doc.$('img').each(async function (i, elem) {
@@ -53,6 +57,7 @@ async function handleRequest(doc) {
     let url = doc.resolve(src)
 
     // Only download once
+    url = getImageURL(url)
     const filepath = getImagePath(url)
     const ok = await exists(filepath)
     if (ok) return
@@ -75,12 +80,30 @@ async function handleRequest(doc) {
     // Stay within prefix
     if (!url.startsWith(prefix)) return
 
-    // Only download once
-    const ok = await exists(getFilepath(url))
-    if (ok) return
-
     // Don't crawl pdfs
     if (url.endsWith('.pdf')) return
+
+    // Only handle once
+    const filepath = getFilepath(url)
+    if (handled.has(filepath)) return
+
+    // Only download once
+    const ok = await exists(filepath)
+    if (ok) {
+      const body = fs.readFileSync(filepath, 'utf8')
+      if (recache.has(filepath)) {
+        return
+      } else if (!body) {
+        recache.add(filepath)
+        console.log('! Empty cache', filepath)
+      } else {
+        recache.add(filepath)
+        setTimeout(() => {
+          handleRequest(new Document(url, { body }))
+        }, 100 + i * 200)
+        return
+      }
+    }
 
     // Fix [ERR_UNESCAPED_CHARACTERS]: Request path contains unescaped characters
     url = new URL(url).toString()
@@ -108,9 +131,19 @@ function getImagePath(url) {
   )
 }
 
+function getImageURL(url) {
+  const parts = url.split('_')
+  const version = parts.pop()
+  if (version.length < 13) {
+    if (version.endsWith('.jpg')) return parts.join('_') + '.jpg'
+    if (version.endsWith('.png')) return parts.join('_') + '.png'
+  }
+  return url
+}
+
 async function exists(url) {
   const filename = url
-  if (html.has(filename) || images.has(filename)) {
+  if (handled.has(filename) || images.has(filename)) {
     return true
   }
 
@@ -119,7 +152,7 @@ async function exists(url) {
       .access(filename, fs.constants.F_OK)
       .catch(() => false)) !== false
 
-  if (doesExist) html.add(filename)
+  // if (doesExist) html.add(filename)
 
   return doesExist
 }

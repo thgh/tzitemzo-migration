@@ -66,6 +66,13 @@ const wp_ = 'tzo_'
   // const over = scraped.filter((s) => /\/over-ons.?\//.test(s))
   // console.log('Over ons', over.length)
 
+  // Move image thumbnails to separate folder
+  const imagePaths = posts
+    .map((p) => p.img)
+    .filter(Boolean)
+    .filter(uniq)
+  imagePaths.forEach(duplicate)
+
   // Just in case
   posts.sort((a, b) => a.ID - b.ID)
 
@@ -160,6 +167,24 @@ VALUES ${posts
     )
     .join(',\n')};
   `)
+
+  sql.push(
+    posts
+      .filter((p) => p.img)
+      .map(
+        (post) =>
+          `
+DELETE FROM ${wp_}postmeta
+WHERE post_id = ${post.ID} AND meta_key LIKE '_thumbnail_id';
+INSERT INTO ${wp_}postmeta (post_id, meta_key, meta_value)
+SELECT  ${post.ID}, '_thumbnail_id',post_id
+FROM ${wp_}postmeta
+WHERE meta_value LIKE '%${getImageURL(post.img).split('/').pop() || 0}'
+LIMIT 1`
+      )
+      .join(';\n')
+  )
+
   await writeFile('./dump.sql', sql.join(';\n\n'))
   console.log('dumped sql', sql.length)
 
@@ -186,10 +211,11 @@ function toPost(filename) {
 
   let post_content = $('.holder')
     .html()
-    .replace(/\r\n\s+/g, '')
+    .replace(/\r?\n\s+\n?\n?/g, '')
     .replace('<div class="clearfix"></div>', '')
     .trim()
-  if (post_content.includes('</form>')) post_content = '<!-- empty -->'
+  if (post_content.includes('<ul class="social-networks">'))
+    post_content = '<!-- empty -->'
 
   // Date is missing
   const post_date = new Date(
@@ -213,7 +239,7 @@ function toPost(filename) {
   return {
     ID,
     post_date,
-    // img: $('img').attr('src'),
+    img: $('img').attr('src'),
     post_title,
     post_name,
     post_content,
@@ -251,6 +277,17 @@ function uniqBy(prop) {
     : (v, i, a) => a.findIndex((v2) => v[prop] === v2[prop]) === i
 }
 
+function duplicate(filepath) {
+  filepath = getImageURL(filepath)
+  try {
+    const img = fs.readFileSync('./data' + filepath)
+    fs.mkdirSync(path.dirname('./images' + filepath), { recursive: true })
+    fs.writeFileSync('./images' + filepath, img)
+  } catch (e) {
+    console.log('faildup', filepath)
+  }
+}
+
 function escape(str) {
   return (
     "'" +
@@ -272,7 +309,7 @@ function slugify(str) {
 }
 
 // Start at 1000 so it's easy to remove all posts with ID > 1000
-function postID(params) {
+function postID() {
   const prev = global.__postID || 1000
   return (global.__postID = prev + 1)
 }
@@ -282,4 +319,14 @@ function postType(type) {
     post.post_type = type
     return post
   }
+}
+
+function getImageURL(url) {
+  const parts = url.split('_')
+  const version = parts.pop()
+  if (version.length < 13) {
+    if (version.endsWith('.jpg')) return parts.join('_') + '.jpg'
+    if (version.endsWith('.png')) return parts.join('_') + '.png'
+  }
+  return url
 }

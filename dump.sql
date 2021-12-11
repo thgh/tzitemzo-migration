@@ -6093,7 +6093,30 @@ Welk mandaat heeft de vertrouwenspersoon?<br>
   1384,
   '2021-12-17 00:00:00.000',
   '2021-12-17 00:00:00.000',
-  '<!-- empty -->',
+  '<p class="bold">Bent u op zoek naar een workshop over het Belgisch jeugdrecht op maat van uw team, uw organisatie? Dan kunt u een juridische workshops van de Kinderrechtswinkel aanvragen.</p><p>De juriste van de Kinderrechtswinkel verzorgt al jaren workshops over belangrijke thema&apos;s uit het Belgisch jeugdrecht: (on)bekwaamheid &amp; ouderlijk gezag, verdeling van het ouderlijk gezag wanneer ouders uit elkaar gaan, rechten van de minderjarige binnen de integrale jeugdhulp, beroepsgeheim, de rechten van de minderjarige pati&#xEB;nt, ... voor professionelen en diensten die met minderjarigen werken.</p><p>Tijdens onze juridische workshops vertrekken we steeds vanuit een overzicht van de geldende regelgeving betreffende een bepaald thema maar betrekken wij ook steeds de praktijk zoveel mogelijk door voldoende concrete voorbeelden en casussen te geven.<br>
+Daarnaast werken wij graag zo interactief mogelijk om de deelnemers voldoende de mogelijkheid te geven om tussen te komen om vragen te stellen of om eventueel casussen voor te leggen. Daarom werken we liefst met kleine groepen (max. 25 personen).<br>
+Het is natuurlijk ook mogelijk om reeds op voorhand vragen en casussen door te mailen zodat deze kunnen verwerkt worden in de toelichting.</p><p>Onze workshops worden steeds gegeven aan de hand van een PowerPoint-presentatie.<br>
+Wij brengen hiervoor een USB-stick mee met de presentatie maar vragen aan de organisatoren om voor PC/laptop met USB-aansluiting &#xE9;n een beamer te zorgen om de presentatie mee te projecteren.<br>
+Wij brengen, tenzij anders afgesproken, informatiemapjes voor de deelnemers mee met daarin de uitprint van de presentatie &#xE9;n enkele interessante en relevante folders/achtergrondteksten.</p><p>Praktisch :<br>
+Een workshop kost &#x20AC;250 per sessie van ongeveer 2,5u voor 25 personen. Daar komen nog verplaatsingskosten bij (aan &#x20AC; 0,35/km.).<br>
+Vanaf 26 deelnemers wordt er 10 euro per extra deelnemer aangerekend per sessie.</p><p>U kan een juridische vorming m.b.t. het Belgisch Jeugdrecht aanvragen via jurist@kinderrechtswinkel.be</p><p><div class="detailrow"><div>Wat:</div><div>workshops op maat</div></div><div class="detailrow"><div>Wanneer:</div><div>op afspraak</div></div><div class="detailrow"><div>Waar:</div><div>in de Kinderrechtswinkel of op verplaatsing</div></div><div class="detailrow"><div>Wie:</div><div>professionelen</div></div><div class="detailrow"><div>Prijs:</div><div>&#x20AC;250 per sessie</div></div></p><p>&#xA0;</p><p><link rel="stylesheet" type="text/css" media="screen" href="/js/calendar/calendar.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/jquery-ui.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/forms.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/forms.css?v=201504"><script language="javascript" type="text/javascript">var languageCode=''nl'';</script><script language="javascript" type="text/javascript" src="/js/calendar/calendar.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.form.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.validate.extra_methods.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.customAlertConfirm.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/document_uploader.php?v=201504"></script><script language="javascript" type="text/javascript">$j(document).ready(function() {$j("#fluxform_382").validate({errorElement: "div",errorClass: "fluxform_error",invalidHandler: function(form, validator) {var errors = validator.numberOfInvalids();if (errors) {var message = (errors == 1 ? "Gelieve %d veld te corrigeren." : "Gelieve %d velden te corrigeren.");jQueryAlert(message.replace(/%d/, errors), "Fout");}},submitHandler: function(form) {if (jQuery(form).validate().numberOfInvalids() != 0) {return false;}			var submitButton = $j(form).find("input[type=''submit'']");$j(submitButton).attr("disabled", "disabled");var response = $j.ajax({cache: false,async: false,type: "post",data: $j(form).serialize(),url: "/includes/submit_form.php"}).responseText;$j("#fluxform_382_div").html(response);$j(window).scrollTop(0);}});});</script><div id="fluxform_382_div"><div class="fluxform_introtext"><p>Stel hier jouw vraag.</p><p>&#xA0;</p>
+</div><form method="post" action="/leerkrachten/vorming4/juridische-workshops-op-maat2" id="fluxform_382" class="fluxform fluxform_form_382"><input type="hidden" name="step" value="fluxform_send_382"><input type="hidden" name="structure_ID" value="70"><input type="hidden" name="template_ID" value="0"><input type="hidden" name="node_ID" value="837"><fieldset><div class="row">
+<label for="field_53" class="fluxform_label_textfield fluxform_label_textfield_field_53">Naam en voornaam</label>
+<input type="text" id="field_53" name="field_53" value class="fluxform_textfield fluxform_textfield_field_53"><div for="field_53" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_54" class="fluxform_label_emailfield fluxform_label_emailfield_field_54">Email*</label>
+<input type="email" id="field_54" name="field_54" value class="required fluxform_emailfield_receipt fluxform_emailfield fluxform_emailfield_field_54"><div for="field_54" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_55" class="fluxform_label_textfield fluxform_label_textfield_field_55">Postcode + gemeente</label>
+<input type="text" id="field_55" name="field_55" value class="fluxform_textfield fluxform_textfield_field_55"><div for="field_55" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_56" class="fluxform_label_textareafield fluxform_label_textareafield_field_56">Mijn vraag</label>
+<textarea name="field_56" id="field_56" rows="5" wrap="virtual" class="fluxform_textareafield fluxform_textareafield_field_56"></textarea><div for="field_56" generated="true" class="fluxform_error"></div>
+</div>
+</fieldset><div class="fluxform_button_container"><input type="submit" value="Verzend" class="fluxform_button fluxform_button_form_382"></div></form></div></p><script>jQuery("form.fluxform div").each(function() {if (jQuery(this).find("input[type=checkbox], input[type=radio], input[type=submit], input[type=button], input[type=reset]").length) {} else {jQuery(this).find("input, textarea").attr("placeholder", jQuery(this).find("label").html());jQuery(this).find("select").attr("required", true);jQuery(this).find("select > option:first-child").attr("selected", true).attr("disabled", true).text(jQuery(this).find("label").html());jQuery(this).find("label").remove();}});jQuery("form.fluxform input[type=submit]").addClass("btn");</script>',
   '',
   'Juridische workshops op maat',
   '', -- excerpt todo
@@ -6153,7 +6176,25 @@ zo doe je dat&quot;</strong></span></p><p><span style="color:rgb(255, 140, 0)"><
   1387,
   '2021-12-17 03:00:00.000',
   '2021-12-17 03:00:00.000',
-  '<!-- empty -->',
+  '<p class="bold">tZitemzo verzorgt al jaren vormingssessies voor minderjarigen over kinderrechten in het algemeen en over het Belgisch jeugdrecht in het bijzonder.</p><p>Deze vormingen worden steeds op maat gemaakt, d.w.z. dat de vorming wordt aangepast aan de doelgroep (het aantal personen, de leeftijd van de doelgroep, het kader waarbinnen de vorming gegeven wordt (onderwijs, vrije tijd,...), aan een bepaald thema, ...</p><p>Men kan deze vormingen volgen in het lokaal van tZitemzo, of op verplaatsing</p><p><strong>Methodiek</strong> : De vorming wordt in principe op een zo interactief mogelijk manier gegeven waarbij zowel het theoretisch kader als concrete vragen en situaties (uit de praktijk) aan bod komen.&#xA0;<br>
+tZitemzo voorziet hierbij een <strong>informatiepakketje</strong> voor de deelnemers waarin de uitprint van de presentatie, enkele relevante folders en eventueel interessant achtergrondmateriaal steken.</p><p>Klassen, scholen en jeugdorganisaties kunnen vormingen aanvragen voor hun minderjarige leerlingen/leden. Vormingen voor minderjarigen in de klas of in het jeugdwerk kosten &#x20AC;50 / 2 lesuren.</p><p><div class="detailrow"><div>Wat:</div><div>infosessies over kinderrechten en Belgisch jeugdrecht</div></div><div class="detailrow"><div>Wanneer:</div><div>op aanvraag</div></div><div class="detailrow"><div>Waar:</div><div>tZitemzo-lokaal of op verplaatsing</div></div><div class="detailrow"><div>Wie:</div><div>lager onderwijs, secundair onderwijs</div></div><div class="detailrow"><div>Prijs:</div><div>&#x20AC;50/2 lesuren (excl. verplaatsingskosten)</div></div></p><p>&#xA0;</p><p><link rel="stylesheet" type="text/css" media="screen" href="/js/calendar/calendar.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/jquery-ui.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/forms.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/forms.css?v=201504"><script language="javascript" type="text/javascript">var languageCode=''nl'';</script><script language="javascript" type="text/javascript" src="/js/calendar/calendar.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.form.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.validate.extra_methods.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.customAlertConfirm.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/document_uploader.php?v=201504"></script><script language="javascript" type="text/javascript">$j(document).ready(function() {$j("#fluxform_382").validate({errorElement: "div",errorClass: "fluxform_error",invalidHandler: function(form, validator) {var errors = validator.numberOfInvalids();if (errors) {var message = (errors == 1 ? "Gelieve %d veld te corrigeren." : "Gelieve %d velden te corrigeren.");jQueryAlert(message.replace(/%d/, errors), "Fout");}},submitHandler: function(form) {if (jQuery(form).validate().numberOfInvalids() != 0) {return false;}			var submitButton = $j(form).find("input[type=''submit'']");$j(submitButton).attr("disabled", "disabled");var response = $j.ajax({cache: false,async: false,type: "post",data: $j(form).serialize(),url: "/includes/submit_form.php"}).responseText;$j("#fluxform_382_div").html(response);$j(window).scrollTop(0);}});});</script><div id="fluxform_382_div"><div class="fluxform_introtext"><p>Stel hier jouw vraag.</p><p>&#xA0;</p>
+</div><form method="post" action="/leerkrachten/vorming4/vorming-voor-minderjarigen" id="fluxform_382" class="fluxform fluxform_form_382"><input type="hidden" name="step" value="fluxform_send_382"><input type="hidden" name="structure_ID" value="70"><input type="hidden" name="template_ID" value="0"><input type="hidden" name="node_ID" value="843"><fieldset><div class="row">
+<label for="field_53" class="fluxform_label_textfield fluxform_label_textfield_field_53">Naam en voornaam</label>
+<input type="text" id="field_53" name="field_53" value class="fluxform_textfield fluxform_textfield_field_53"><div for="field_53" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_54" class="fluxform_label_emailfield fluxform_label_emailfield_field_54">Email*</label>
+<input type="email" id="field_54" name="field_54" value class="required fluxform_emailfield_receipt fluxform_emailfield fluxform_emailfield_field_54"><div for="field_54" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_55" class="fluxform_label_textfield fluxform_label_textfield_field_55">Postcode + gemeente</label>
+<input type="text" id="field_55" name="field_55" value class="fluxform_textfield fluxform_textfield_field_55"><div for="field_55" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_56" class="fluxform_label_textareafield fluxform_label_textareafield_field_56">Mijn vraag</label>
+<textarea name="field_56" id="field_56" rows="5" wrap="virtual" class="fluxform_textareafield fluxform_textareafield_field_56"></textarea><div for="field_56" generated="true" class="fluxform_error"></div>
+</div>
+</fieldset><div class="fluxform_button_container"><input type="submit" value="Verzend" class="fluxform_button fluxform_button_form_382"></div></form></div></p><script>jQuery("form.fluxform div").each(function() {if (jQuery(this).find("input[type=checkbox], input[type=radio], input[type=submit], input[type=button], input[type=reset]").length) {} else {jQuery(this).find("input, textarea").attr("placeholder", jQuery(this).find("label").html());jQuery(this).find("select").attr("required", true);jQuery(this).find("select > option:first-child").attr("selected", true).attr("disabled", true).text(jQuery(this).find("label").html());jQuery(this).find("label").remove();}});jQuery("form.fluxform input[type=submit]").addClass("btn");</script>',
   '',
   'Vorming voor minderjarigen',
   '', -- excerpt todo
@@ -6168,7 +6209,30 @@ zo doe je dat&quot;</strong></span></p><p><span style="color:rgb(255, 140, 0)"><
   1388,
   '2021-12-17 04:00:00.000',
   '2021-12-17 04:00:00.000',
-  '<!-- empty -->',
+  '<p class="bold">Bent u op zoek naar een workshop over het Belgisch jeugdrecht op maat van uw team, uw organisatie? Dan kunt u een juridische workshops van tZitemzo aanvragen.</p><p>De juriste van tZitemzo verzorgt al jaren workshops over belangrijke thema&apos;s uit het Belgisch jeugdrecht: (on)bekwaamheid &amp; ouderlijk gezag, verdeling van het ouderlijk gezag wanneer ouders uit elkaar gaan, rechten van de minderjarige binnen de integrale jeugdhulp, ambtsgeheim en/of beroepsgeheim, de rechten van de minderjarige pati&#xEB;nt, ... voor professionelen en diensten die met minderjarigen werken.</p><p>Tijdens onze juridische workshops vertrekken we steeds vanuit een <strong>overzicht van de geldende regelgeving </strong>betreffende een bepaald thema maar betrekken wij ook<strong> steeds de praktijk </strong>zoveel mogelijk door voldoende concrete voorbeelden en casussen te geven.<br>
+Daarnaast werken wij graag zo <strong>interactief</strong> mogelijk om de deelnemers voldoende de mogelijkheid te geven om tussen te komen om vragen te stellen of om eventueel casussen voor te leggen. Daarom werken we liefst met kleine groepen (<strong>max. 25 personen</strong>).<br>
+Het is natuurlijk ook mogelijk om reeds op voorhand vragen en casussen door te mailen zodat deze kunnen verwerkt worden in de toelichting.</p><p>Onze workshops worden steeds gegeven aan de hand van een <strong>PowerPoint-presentatie</strong>.<br>
+Wij brengen hiervoor een USB-stick mee met de presentatie maar vragen aan de organisatoren om voor PC/laptop met USB-aansluiting &#xE9;n een beamer te zorgen om de presentatie mee te projecteren.<br>
+Wij brengen, tenzij anders afgesproken, informatiemapjes voor de deelnemers mee met daarin de uitprint van de presentatie &#xE9;n enkele interessante en relevante folders/achtergrondteksten.</p><p><strong>Praktisch</strong> :<br>
+Een workshop kost &#x20AC;300 per sessie van ongeveer 2,5u voor 25 personen. Daar komen nog verplaatsingskosten bij (aan &#x20AC; 0,36/km.).<br>
+Vanaf 26 deelnemers wordt er 10 euro per extra deelnemer aangerekend per sessie. Tenzij onderling anders afgesproken.</p><p>U kan een juridische vorming m.b.t. het Belgisch Jeugdrecht aanvragen via jurist@tzitemzo.be</p><p><div class="detailrow"><div>Wat:</div><div>interactieve workshop op maat</div></div><div class="detailrow"><div>Wanneer:</div><div>op afspraak</div></div><div class="detailrow"><div>Waar:</div><div>lokaal tZitemzo of op verplaatsing</div></div><div class="detailrow"><div>Wie:</div><div>professionelen</div></div><div class="detailrow"><div>Prijs:</div><div>&#x20AC;300/ sessie (circa 2,5u - excl. verplaatsingskosten)</div></div></p><p>&#xA0;</p><p><link rel="stylesheet" type="text/css" media="screen" href="/js/calendar/calendar.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/jquery-ui.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/document_uploader.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/css/forms.css?v=201504"><link rel="stylesheet" type="text/css" media="screen" href="/templates/default/css/forms.css?v=201504"><script language="javascript" type="text/javascript">var languageCode=''nl'';</script><script language="javascript" type="text/javascript" src="/js/calendar/calendar.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.form.js?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.validate.extra_methods.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/jquery.customAlertConfirm.php?v=201504"></script><script language="javascript" type="text/javascript" src="/js/document_uploader.php?v=201504"></script><script language="javascript" type="text/javascript">$j(document).ready(function() {$j("#fluxform_382").validate({errorElement: "div",errorClass: "fluxform_error",invalidHandler: function(form, validator) {var errors = validator.numberOfInvalids();if (errors) {var message = (errors == 1 ? "Gelieve %d veld te corrigeren." : "Gelieve %d velden te corrigeren.");jQueryAlert(message.replace(/%d/, errors), "Fout");}},submitHandler: function(form) {if (jQuery(form).validate().numberOfInvalids() != 0) {return false;}			var submitButton = $j(form).find("input[type=''submit'']");$j(submitButton).attr("disabled", "disabled");var response = $j.ajax({cache: false,async: false,type: "post",data: $j(form).serialize(),url: "/includes/submit_form.php"}).responseText;$j("#fluxform_382_div").html(response);$j(window).scrollTop(0);}});});</script><div id="fluxform_382_div"><div class="fluxform_introtext"><p>Stel hier jouw vraag.</p><p>&#xA0;</p>
+</div><form method="post" action="/professionelen/vorming3/juridische-workshops-op-maat" id="fluxform_382" class="fluxform fluxform_form_382"><input type="hidden" name="step" value="fluxform_send_382"><input type="hidden" name="structure_ID" value="61"><input type="hidden" name="template_ID" value="0"><input type="hidden" name="node_ID" value="370"><fieldset><div class="row">
+<label for="field_53" class="fluxform_label_textfield fluxform_label_textfield_field_53">Naam en voornaam</label>
+<input type="text" id="field_53" name="field_53" value class="fluxform_textfield fluxform_textfield_field_53"><div for="field_53" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_54" class="fluxform_label_emailfield fluxform_label_emailfield_field_54">Email*</label>
+<input type="email" id="field_54" name="field_54" value class="required fluxform_emailfield_receipt fluxform_emailfield fluxform_emailfield_field_54"><div for="field_54" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_55" class="fluxform_label_textfield fluxform_label_textfield_field_55">Postcode + gemeente</label>
+<input type="text" id="field_55" name="field_55" value class="fluxform_textfield fluxform_textfield_field_55"><div for="field_55" generated="true" class="fluxform_error"></div>
+</div>
+<div class="row">
+<label for="field_56" class="fluxform_label_textareafield fluxform_label_textareafield_field_56">Mijn vraag</label>
+<textarea name="field_56" id="field_56" rows="5" wrap="virtual" class="fluxform_textareafield fluxform_textareafield_field_56"></textarea><div for="field_56" generated="true" class="fluxform_error"></div>
+</div>
+</fieldset><div class="fluxform_button_container"><input type="submit" value="Verzend" class="fluxform_button fluxform_button_form_382"></div></form></div></p><script>jQuery("form.fluxform div").each(function() {if (jQuery(this).find("input[type=checkbox], input[type=radio], input[type=submit], input[type=button], input[type=reset]").length) {} else {jQuery(this).find("input, textarea").attr("placeholder", jQuery(this).find("label").html());jQuery(this).find("select").attr("required", true);jQuery(this).find("select > option:first-child").attr("selected", true).attr("disabled", true).text(jQuery(this).find("label").html());jQuery(this).find("label").remove();}});jQuery("form.fluxform input[type=submit]").addClass("btn");</script>',
   '',
   'Juridische workshops op maat',
   '', -- excerpt todo
@@ -8346,4 +8410,3357 @@ Welk mandaat heeft de vertrouwenspersoon?<br>
 (1471, 9, 0),
 (1472, 9, 0),
 (1473, 4, 0);
-  
+  ;
+
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1001 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1001, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1750_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1002 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1002, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2205_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1003 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1003, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1770_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1004 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1004, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1770_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1005 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1005, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1771_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1006 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1006, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1764_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1007 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1007, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1286_cover-flyer-heb-jij-een-vertrouwenspersoon-2017.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1008 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1008, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1286_cover-flyer-heb-jij-een-vertrouwenspersoon-2017.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1009 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1009, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2319_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1010 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1010, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1733_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1011 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1011, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1773_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1012 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1012, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1773_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1013 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1013, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1777_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1014 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1014, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1776_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1016 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1016, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1768_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1017 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1017, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1018 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1018, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1019 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1019, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1753_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1020 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1020, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1758_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1021 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1021, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2169_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1022 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1022, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1760_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1023 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1023, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2006_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1024 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1024, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2006_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1025 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1025, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2001_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1026 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1026, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1765_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1027 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1027, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1763_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1028 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1028, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%spelletjes_153b.gif'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1029 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1029, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1747_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1030 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1030, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1749_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1032 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1032, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1752_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1033 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1033, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1750_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1034 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1034, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2196_cover-dader-2-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1035 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1035, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2205_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1036 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1036, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1771_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1037 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1037, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1770_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1038 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1038, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1769_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1039 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1039, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1938_tzitemzo-privacy-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1040 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1040, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1235_cover-tzitemzo-met-minderjarige-ouders-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1041 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1041, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1768_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1042 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1042, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2435_588-krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1044 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1044, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%588_krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1045 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1045, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2071_cover-tzitemzo-echtscheiding-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1046 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1046, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%763_krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1047 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1047, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%822_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1050 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1050, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1286_cover-flyer-heb-jij-een-vertrouwenspersoon-2017.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1051 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1051, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1927_vertrouwenspersoon-folder-voorpagina.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1057 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1057, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2133_cover-tzitemzo-in-de-integrale-jeugdhulp-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1058 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1058, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1649_cover-tzitemzo-beroepsgeheim-2018.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1059 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1059, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1938_tzitemzo-privacy-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1061 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1061, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1777_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1062 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1062, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2416_muurschildering.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1063 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1063, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1778_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1064 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1064, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1065 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1065, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1070 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1070, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1775_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1071 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1071, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1772_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1072 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1072, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2231_tzitemzo-als-je-minderjarig-bent.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1073 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1073, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1938_tzitemzo-privacy-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1074 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1074, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1235_cover-tzitemzo-met-minderjarige-ouders-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1075 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1075, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1768_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1076 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1076, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1753_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1077 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1077, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1878_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1081 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1081, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1758_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1082 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1082, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1882_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1083 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1083, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1757_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1084 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1084, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1754_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1085 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1085, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1886_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1086 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1086, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1087 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1087, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1880_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1088 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1088, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1807_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1089 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1089, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1755_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1090 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1090, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1888_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1091 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1091, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1218_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1093 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1093, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1651_cover-tzitemzo-patient-2018.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1094 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1094, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1760_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1095 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1095, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2196_cover-dader-2-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1096 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1096, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2273_politie-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1099 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1099, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1649_cover-tzitemzo-beroepsgeheim-2018.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1100 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1100, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1938_tzitemzo-privacy-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1101 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1101, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2008_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1102 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1102, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2001_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1104 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1104, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1766_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1105 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1105, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1765_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1106 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1106, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1767_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1107 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1107, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%588_krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1108 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1108, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2071_cover-tzitemzo-echtscheiding-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1109 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1109, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1760_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1110 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1110, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%805_slachtoffercover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1111 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1111, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1761_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1112 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1112, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1763_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1113 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1113, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1762_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1114 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1114, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1182_krw-tzitemzo-vreemdeling.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1117 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1117, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1747_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1121 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1121, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1907_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1122 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1122, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1741_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1123 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1123, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1734_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1124 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1124, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1734_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1125 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1125, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1733_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1126 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1126, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1907_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1127 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1127, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1907_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1128 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1128, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1739_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1129 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1129, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1740_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1130 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1130, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1131 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1131, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1132 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1132, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1807_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1133 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1133, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2168_info-website.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1134 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1134, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%spelletjes_152b.gif'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1135 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1135, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1745_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1136 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1136, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1745_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1137 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1137, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1746_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1138 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1138, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1907_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1139 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1139, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1911_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1141 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1141, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%781_t-zitemzo-kids-recht-en-gerecht-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1143 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1143, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%756_voorblad-kids-hoorrecht.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1144 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1144, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1495_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1145 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1145, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%599_ik-en-jeugdhulp-voork-lr-pagina-01-1-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1146 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1146, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2186_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1150 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1150, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%596_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1151 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1151, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%605_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1152 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1152, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1907_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1154 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1154, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1155 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1155, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%775_tzitemzo-kids-kinderrechten-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1160 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1160, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1735_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1161 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1161, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1878_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1164 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1164, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1882_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1165 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1165, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1886_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1166 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1166, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1884_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1167 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1167, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1880_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1168 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1168, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1807_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1169 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1169, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1888_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1170 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1170, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2168_info-website.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1171 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1171, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1765_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1172 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1172, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%756_voorblad-kids-hoorrecht.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1173 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1173, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%619_tzitemzo-kids-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1174 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1174, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%781_t-zitemzo-kids-recht-en-gerecht-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1175 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1175, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1176 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1176, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1177 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1177, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1178 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1178, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1179 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1179, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1180 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1180, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%128_t-zitemzo-kids-vrijetijd-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1181 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1181, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1182 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1182, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1183 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1183, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1784_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1184 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1184, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1782_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1185 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1185, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1717_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1186 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1186, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1717_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1187 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1187, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1875_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1188 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1188, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1829_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1189 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1189, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1801_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1190 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1190, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1835_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1191 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1191, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1839_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1192 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1192, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1845_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1193 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1193, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1853_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1194 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1194, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1857_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1195 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1195, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1867_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1196 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1196, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1540_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1197 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1197, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1540_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1198 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1198, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%690_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1199 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1199, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1955_serieus-rollenspel-klachtenlijn-2018-1.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1200 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1200, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1106_bord-vol-kinderrechten.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1201 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1201, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1202 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1202, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1203 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1203, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1540_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1204 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1204, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1561_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1205 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1205, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%846_cover-ivrk-officieel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1206 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1206, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%831_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1207 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1207, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1783_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1208 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1208, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1784_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1210 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1210, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1780_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1211 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1211, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1717_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1213 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1213, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1785_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1214 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1214, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1722_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1215 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1215, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1801_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1216 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1216, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1833_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1219 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1219, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1815_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1220 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1220, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1835_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1223 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1223, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1837_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1224 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1224, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1723_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1225 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1225, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1839_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1227 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1227, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1841_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1230 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1230, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1845_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1231 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1231, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1803_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1232 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1232, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1847_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1233 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1233, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1849_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1234 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1234, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1851_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1236 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1236, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1853_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1240 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1240, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1855_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1241 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1241, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1857_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1242 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1242, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1859_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1243 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1243, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1863_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1244 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1244, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1865_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1245 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1245, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1861_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1246 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1246, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1827_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1247 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1247, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1867_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1248 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1248, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1869_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1249 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1249, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1871_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1250 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1250, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1873_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1251 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1251, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1875_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1252 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1252, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1829_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1256 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1256, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1799_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1257 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1257, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1831_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1258 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1258, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2416_muurschildering.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1259 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1259, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1260 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1260, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1261 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1261, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1262 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1262, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1717_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1263 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1263, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1264 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1264, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1540_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1266 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1266, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1561_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1267 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1267, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%690_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1268 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1268, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2312_digitale-les-en-vorming.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1269 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1269, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2311_les-kr.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1270 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1270, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1273 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1273, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2111_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1274 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1274, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1275 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1275, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2315_speurtocht.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1278 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1278, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1279 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1279, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1280 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1280, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1281 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1281, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1282 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1282, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2361_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1283 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1283, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1284 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1284, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1731_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1285 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1285, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1732_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1286 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1286, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1729_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1287 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1287, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1196_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1288 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1288, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1196_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1289 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1289, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1290 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1290, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1731_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1291 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1291, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1525_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1292 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1292, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1045_160-brochure-volwassenen-cover-lowres-116x159_116x159.gif'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1293 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1293, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1048_ben-jij-een-vertrouwenspersoon.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1294 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1294, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1033_jeugdrecht-rechten-ijh.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1296 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1296, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1730_nieuw-vraagteken.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1297 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1297, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1729_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1298 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1298, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1950_jeugdrecht-bekwaamheid-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1299 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1299, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1196_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1300 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1300, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1301 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1301, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1302 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1302, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1303 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1303, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2361_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1304 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1304, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1305 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1305, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1796_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1306 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1306, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1794_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1307 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1307, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1794_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1308 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1308, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1795_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1309 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1309, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1791_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1310 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1310, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2284_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1311 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1311, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2284_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1312 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1312, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1790_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1313 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1313, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1314 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1314, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1315 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1315, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1788_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1316 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1316, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1955_serieus-rollenspel-klachtenlijn-2018-1.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1317 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1317, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1790_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1318 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1318, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1633_straffe-school.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1319 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1319, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1797_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1320 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1320, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1792_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1321 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1321, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2361_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1322 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1322, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2361_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1323 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1323, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1324 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1324, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2189_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1325 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1325, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2189_vraagteken-website.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1326 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1326, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1459_vertrouwenspersoon-drp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1327 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1327, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1631_unaccompanied-foreign-minor-dutch-thumb.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1328 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1328, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1796_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1329 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1329, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1440_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1330 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1330, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1566_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1331 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1331, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1793_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1332 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1332, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1794_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1334 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1334, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%497_cover-beroepsgeheim.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1335 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1335, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1729_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1336 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1336, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2242_politie-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1337 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1337, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1791_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1338 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1338, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1519_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1339 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1339, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2284_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1340 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1340, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1048_ben-jij-een-vertrouwenspersoon.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1341 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1341, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1790_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1343 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1343, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2282_tzitemzo-in-de-integrale-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1344 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1344, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1033_jeugdrecht-rechten-ijh.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1345 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1345, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1026_cover-vertrouwenspersoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1346 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1346, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1347 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1347, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1561_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1348 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1348, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1143_846-cover-ivrk-officieel-116x159.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1349 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1349, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%846_cover-ivrk-officieel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1350 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1350, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%831_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1351 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1351, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1788_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1352 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1352, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2416_muurschildering.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1353 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1353, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1789_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1354 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1354, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1355 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1355, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1357 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1357, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1358 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1358, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1486_cover-magazine-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1360 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1360, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1787_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1361 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1361, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1790_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1362 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1362, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1729_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1363 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1363, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1950_jeugdrecht-bekwaamheid-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1365 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1365, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1440_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1366 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1366, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1528_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1367 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1367, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1952_jeugdrecht-patient-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1368 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1368, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1797_nieuw-vraagtekep.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1369 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1369, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1792_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1370 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1370, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2242_politie-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1371 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1371, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1728_knipsel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1372 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1372, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%473_cover-kinderopvangjpg.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1373 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1373, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1374 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1374, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1375 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1375, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2361_nieuw-vraagtekeo.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1376 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1376, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1377 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1377, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1048_ben-jij-een-vertrouwenspersoon.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1380 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1380, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1033_jeugdrecht-rechten-ijh.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1381 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1381, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1026_cover-vertrouwenspersoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1384 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1384, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2413_krw-buttons-vorming.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1385 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1385, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2387_cartoon-onderwijs.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1386 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1386, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2418_1154-krw-buttons-vorming-106x102.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1387 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1387, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2414_krw-buttons-vorming.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1388 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1388, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1154_krw-buttons-vorming.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1389 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1389, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2387_cartoon-onderwijs.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1390 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1390, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2433_afbeelding-grabbelbox.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1391 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1391, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2418_1154-krw-buttons-vorming-106x102.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1392 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1392, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2403_511-cover-patient.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1393 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1393, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%822_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1394 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1394, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1218_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1395 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1395, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%87_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1396 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1396, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%616_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1397 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1397, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%608_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1398 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1398, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1286_cover-flyer-heb-jij-een-vertrouwenspersoon-2017.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1399 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1399, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1927_vertrouwenspersoon-folder-voorpagina.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1400 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1400, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1401 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1401, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1166_folder-tzitemzo-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1402 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1402, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2196_cover-dader-2-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1403 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1403, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%588_krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1404 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1404, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2231_tzitemzo-als-je-minderjarig-bent.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1405 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1405, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1651_cover-tzitemzo-patient-2018.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1406 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1406, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%805_slachtoffercover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1407 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1407, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2071_cover-tzitemzo-echtscheiding-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1408 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1408, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2273_politie-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1409 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1409, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2133_cover-tzitemzo-in-de-integrale-jeugdhulp-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1410 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1410, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1411 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1411, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1649_cover-tzitemzo-beroepsgeheim-2018.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1412 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1412, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1938_tzitemzo-privacy-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1413 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1413, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1235_cover-tzitemzo-met-minderjarige-ouders-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1414 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1414, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%763_krw-hoorrecht-luisteren-2016.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1415 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1415, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1495_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1416 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1416, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1498_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1417 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1417, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1501_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1418 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1418, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1504_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1419 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1419, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%596_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1420 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1420, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%599_ik-en-jeugdhulp-voork-lr-pagina-01-1-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1421 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1421, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2186_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1422 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1422, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%605_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1423 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1423, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1492_folder-tzitemzo-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1424 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1424, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1425 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1425, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%756_voorblad-kids-hoorrecht.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1426 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1426, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2264_tzitemzo-kids-als-je-minderjarig-bent.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1427 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1427, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%619_tzitemzo-kids-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1428 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1428, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%775_tzitemzo-kids-kinderrechten-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1429 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1429, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%781_t-zitemzo-kids-recht-en-gerecht-voorblad.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1430 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1430, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1522_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1431 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1431, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1531_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1432 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1432, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1433 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1433, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1540_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1434 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1434, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1561_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1435 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1435, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%846_cover-ivrk-officieel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1436 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1436, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%831_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1437 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1437, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1438 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1438, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1439 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1439, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1440_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1440 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1440, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1566_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1441 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1441, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1442 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1442, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1513_folder-tzitemzo-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1443 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1443, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1444 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1444, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1445 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1445, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1950_jeugdrecht-bekwaamheid-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1446 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1446, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1447 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1447, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1525_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1448 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1448, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1534_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1449 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1449, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1552_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1450 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1450, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1543_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1451 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1451, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1045_160-brochure-volwassenen-cover-lowres-116x159_116x159.gif'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1452 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1452, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%846_cover-ivrk-officieel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1453 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1453, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%831_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1454 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1454, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1455 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1455, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1456 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1456, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1048_ben-jij-een-vertrouwenspersoon.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1457 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1457, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1458 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1458, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1555_folder-tzitemzo-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1459 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1459, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1460 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1460, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1950_jeugdrecht-bekwaamheid-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1461 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1461, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1033_jeugdrecht-rechten-ijh.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1462 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1462, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1519_drp-affichea1.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1463 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1463, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1528_affiche-rechten-van-de-patient-2017-.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1464 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1464, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1549_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1465 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1465, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1537_affiche-kleuters.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1466 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1466, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1546_rechtenaffiche.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1467 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1467, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1561_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1468 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1468, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2284_mijn-rechten-in-de-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1469 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1469, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%846_cover-ivrk-officieel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1470 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1470, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%831_cover-ivrk-kinderen.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1471 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1471, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%473_cover-kinderopvangjpg.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1472 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1472, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%476_cover-bundel.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1473 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1473, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2280_hulpverleners-def-cartoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1474 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1474, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1440_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1475 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1475, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1566_cover-beroepsgeheim.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1476 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1476, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1048_ben-jij-een-vertrouwenspersoon.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1477 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1477, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2143_cover-katern-30jr-ivrk-2019.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1478 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1478, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1510_folder-tzitemzo-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1479 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1479, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2120_de-bende-van-p-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1480 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1480, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2282_tzitemzo-in-de-integrale-jeugdhulp.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1481 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1481, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1036_cover-jeugdrecht-echtscheiding.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1482 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1482, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1950_jeugdrecht-bekwaamheid-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1483 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1483, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1033_jeugdrecht-rechten-ijh.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1484 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1484, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1952_jeugdrecht-patient-cover.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1485 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1485, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%497_cover-beroepsgeheim.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1486 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1486, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1026_cover-vertrouwenspersoon.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1487 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1487, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2242_politie-cover.jpg'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1488 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1488, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%2066_cover-tzitemzo--jouw-rechten-jouw-leven-2019-.png'
+LIMIT 1;
+
+DELETE FROM tzo_postmeta
+WHERE post_id = 1489 AND meta_key LIKE '_thumbnail_id';
+INSERT INTO tzo_postmeta (post_id, meta_key, meta_value)
+SELECT  1489, '_thumbnail_id',post_id
+FROM tzo_postmeta
+WHERE meta_value LIKE '%1486_cover-magazine-2016.jpg'
+LIMIT 1
