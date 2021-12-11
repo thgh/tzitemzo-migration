@@ -1,7 +1,8 @@
 node_modules
 
 # Scraped data
-data
+datas
+data/library
 images
 
 # Theme repo
